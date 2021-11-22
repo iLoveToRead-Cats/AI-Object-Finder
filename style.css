@@ -1,0 +1,55 @@
+.heading
+{
+    font-size: 23px;
+    width: 60%;
+    margin-top: 4;
+    background-color: rgb(43, 0, 83);
+    color: rgb(192, 174, 226);
+    border-color: rgb(192, 174, 226);
+    border-width: 3px;
+}
+
+body
+{
+    background-size: cover;
+}
+
+#start, #no-of-objects-detected, #status
+{
+font-size: 18px;
+}
+
+canvas
+{
+    border: rgb(192, 174, 226) solid 2px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 18px rgb(29, 0, 49);
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    background-color: rgb(29, 0, 49);
+    color: white;
+    line-height: 2;
+    text-align: center;
+}
+
+#name
+{
+    font-size: 23px;
+    color: rgb(192, 174, 226);
+}
+
+#input
+{
+    border-radius: 2px;
+}
+
+.note{
+    border-width: 3px;
+    border-color: rgb(192, 174, 226);
+    background-color: rgb(29, 0, 49);
+}
